@@ -18,7 +18,7 @@ Live Link : [Link](https://sparkly-bublanina-67a9f7.netlify.app/)
 * There is error page 404 route.
 
 ## Technologies Used:
-- **React:** The whole site is built with React.js
+- **React.js:** The whole site is built with React.js
 - **Chart.js:** Utilized for creating interactive and visually appealing charts to represent data within the application
 - **React Router:** Enables smooth navigation and page rendering within the application.
 
